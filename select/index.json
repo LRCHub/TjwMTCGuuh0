@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "乙女 パスタに感動",
+  "base_artist": "タンポポ",
+  "createdAt": "2026-02-15T01:08:36.731237Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乙女 パスタに感動",
+      "artist": "タンポポ",
+      "has_synced": false,
+      "path": "select/pl_01_乙女_パスタに感動_タンポポ.txt"
+    }
+  ]
+}
